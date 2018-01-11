@@ -17,5 +17,5 @@
 ## <span class="orange">Cast Your Vote!</span>
 
 ---
-# <span class="orange">MKE DOT NET</span>
-### <span class="orange">Re-branding Survey</span>
+## <span class="orange">MKE DOT NET</span>
+#### <span class="orange">Re-branding Survey</span>

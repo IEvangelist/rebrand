@@ -26,4 +26,4 @@
 ## <span class="orange">MKE DOT NET</span>
 ### <span class="orange">Re-branding</span>
 
-[Single Question Survey](https://surveymonkey.com/r/rebrandnet)
+[Single Question Survey @fa[external-link fa-pad-left]](https://surveymonkey.com/r/rebrandnet)

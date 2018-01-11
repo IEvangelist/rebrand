@@ -5,4 +5,4 @@
 ## <span class="orange black-shadow">We have the Beer</span>
 
 ---
-[![Play](assets/alice-cooper.png)](https://youtu.be/nRCTc6stICc "Play")
+![Video](https://www.youtube.com/embed/nRCTc6stICc)

@@ -1,0 +1,6 @@
+theme: night
+theme-override : assets/styles.css
+remote-control: true
+remote-control-prevkey: 38
+remote-control-nextkey: 40
+transition : slide

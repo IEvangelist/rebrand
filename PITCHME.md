@@ -9,7 +9,8 @@
 <img src="assets/mke-dot-net.png" height="300" />
 
 ---
-## <span class="orange">Who Are We?</span>
+## <span class="white">We need your help!</span>
+## <span class="orange">Who are We?</span>
 
 ---?image=assets/beer.jpg&size=contain
 # <span class="orange black-shadow">Brew City?</span>

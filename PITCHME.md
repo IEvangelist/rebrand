@@ -7,11 +7,8 @@
 ---?image=assets/beer.jpg&size=contain
 # <span class="orange black-shadow">Beer City?</span>
 
----
-![Video](https://www.youtube.com/embed/kTOhwNYCI6M)
-
----
+---?image=assets/good-land.jpg&size=contain
 # <span class="orange">Good Land?</span>
 
 ---?image=assets/cream-city.jpg&size=contain
-# <span class="orange">Cream City?</span>
+# <span class="orange black-shadow">Cream City?</span>

@@ -6,5 +6,9 @@
   color: black;
 }
 .orange, a {
-  color: orange;
+  color: #e49436;
+}
+
+.reveal section a {
+  text-decoration: underline;
 }

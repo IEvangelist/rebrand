@@ -5,7 +5,8 @@
 # <span class="orange">Who Are We?</span>
 
 ---?image=assets/beer.jpg&size=contain
-## <span class="orange black-shadow">Beer City</span>
+# <span class="orange black-shadow">Beer City?</span>
+> We have more beer than anywhere else in the U.S. Ask J. Tower!
 
 ---
  - 3 Sheeps Brewing Company					
@@ -119,6 +120,6 @@
 ---
 ![Video](https://www.youtube.com/embed/kTOhwNYCI6M)
 
---
-# <span class="orange">Good Land</span>
+---
+# <span class="orange">Good Land?</span>
 > Actually, it's pronounced "mill-e-wah-que" which is Algonquin for "the good land."

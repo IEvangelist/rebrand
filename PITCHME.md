@@ -2,6 +2,12 @@
 # <span class="orange black-shadow">Milwaukee</span>
 
 ---
+## <span class="orange">Home to an amazing Developer Community</span>
+
+---
+## <span class="orange">MKE DOT NET</span>
+
+---
 ## <span class="orange">Who Are We?</span>
 
 ---?image=assets/beer.jpg&size=contain

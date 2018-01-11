@@ -5,7 +5,8 @@
 ## <span class="orange">Home to an amazing Developer Community</span>
 
 ---
-## <span class="orange">MKE DOT NET</span>
+## <span class="orange black-shadow">Technical Conference</span>
+<img src="assets/mke-dot-net.png" height="300" />
 
 ---
 ## <span class="orange">Who Are We?</span>
@@ -24,6 +25,7 @@
 
 ---
 ## <span class="orange">MKE DOT NET</span>
+### <span class="white">Technical Conference</span>
 ### <span class="orange">Re-branding</span>
 
 [Single Question Survey @fa[external-link fa-pad-left]](https://surveymonkey.com/r/rebrandnet)

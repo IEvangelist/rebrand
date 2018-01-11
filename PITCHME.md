@@ -7,7 +7,7 @@
 ---?image=assets/beer.jpg&size=contain
 # <span class="orange black-shadow">Beer City?</span>
 
----?image=assets/alice-cooper.jpg&size=contain
+---?image=assets/alice-cooper.png&size=contain
 # <span class="orange">Good Land?</span>
 
 ---?image=assets/cream-city.jpg&size=contain

@@ -2,7 +2,8 @@
 # <span class="orange black-shadow">Milwaukee</span>
 
 ---
-## <span class="orange">Home to an amazing Developer Community</span>
+## <span class="orange">Home to an amazing</span>
+## <span class="white">Developer Community</span>
 
 ---
 ## <span class="orange black-shadow">... and the</span>

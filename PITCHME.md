@@ -6,7 +6,7 @@
 
 ---?image=assets/beer.jpg&size=contain
 # <span class="orange black-shadow">Beer City?</span>
-> We have more beer than anywhere else in the U.S. Ask J. Tower!
+> <span class="black">We have more beer than anywhere else in the U.S. Ask J. Tower!</span>
 
 ---
  - 3 Sheeps Brewing Company					

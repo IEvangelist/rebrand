@@ -12,3 +12,10 @@
 
 ---?image=assets/cream-city.jpg&size=contain
 # <span class="orange black-shadow">Cream City?</span>
+
+---
+## <span class="orange">Cast Your Vote!</span>
+
+---
+# <span class="orange">MKE DOT NET</span>
+### <span class="orange">Re-branding Survey</span>

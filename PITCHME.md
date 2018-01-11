@@ -16,7 +16,7 @@
 # <span class="orange black-shadow">Brew City?</span>
 
 ---?image=assets/alice-cooper.jpg&size=contain
-# <span class="orange">Good Land?</span>
+# <span class="orange black-shadow">Good Land?</span>
 
 ---?image=assets/cream-city.jpg&size=contain
 # <span class="orange black-shadow">Cream City?</span>

@@ -5,7 +5,7 @@
 ## <span class="orange">Home to an amazing Developer Community</span>
 
 ---
-## <span class="orange black-shadow">Technical Conference</span>
+## <span class="orange black-shadow">... and the</span>
 <img src="assets/mke-dot-net.png" height="300" />
 
 ---
